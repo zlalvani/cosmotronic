@@ -1,3 +1,4 @@
+#!/bin/env python2.7
 import sys
 import math as m
 import random
